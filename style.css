@@ -6,5 +6,23 @@ body{
     margin-top: 50px;
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+#transection-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color:salmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin : 0px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
 }
